@@ -11,6 +11,7 @@
 
 <form action="login" method="post">
 <input type="hidden" name="requestAction" value="login" />
+<a href="register.jsp">SignUp</a>
 <h2>Login</h2>
 <table>
 	<tr>
